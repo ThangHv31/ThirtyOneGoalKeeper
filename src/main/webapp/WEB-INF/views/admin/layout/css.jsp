@@ -1,0 +1,12 @@
+<!-- Bootstrap core CSS -->
+<link href="${base}/user/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Font Awesome CSS -->
+<link href="${base}/user/css/font-awesome.min.css" rel="stylesheet">
+
+<!-- boostrap -->
+<link href="${base}/user/css/bootstrap.css" rel="stylesheet">
+
+<!-- admin -->
+<link href="${base}/user/css/admin.css" rel="stylesheet">
+
